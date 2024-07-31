@@ -1,4 +1,4 @@
-# lxx789 John Benfield Project 5: Find if Path Exists in Graph
+# lxx789 Project 5: Find if Path Exists in Graph
 # CS 3343: Analysis of Algorithms Summer 2024
 
 n = int(input("Enter total no. of graph nodes: "))
